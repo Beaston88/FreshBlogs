@@ -39,9 +39,9 @@ Contributions are welcome! If you have any ideas or suggestions to improve the p
 #.env :
 clone this repo create a .env file and your environment variables like this:
 
-##Add details to your environment variables (appwrite)
-#VITE_APPWRITE_URL = ""
-#VITE_APPWRITE_PROJECT_ID = ""
-#VITE_APPWRITE_DATABASE_ID = ""
-#VITE_APPWRITE_COLLECTION_ID = ""
-#VITE_APPWRITE_BUCKET_ID = ""
+##Add details to your environment variables (appwrite) (dont copy the numbers)
+1. VITE_APPWRITE_URL = ""
+2. VITE_APPWRITE_PROJECT_ID = ""
+3. VITE_APPWRITE_DATABASE_ID = ""
+4. VITE_APPWRITE_COLLECTION_ID = ""
+5. VITE_APPWRITE_BUCKET_ID = ""
